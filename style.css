@@ -75,10 +75,12 @@ input {
   border: 1px solid #5e54a4;
   border-radius: 5px;
   padding: 10px;
+  color: black;
 }
 
 form input[type="submit"] {
   background: #38cc8b;
+  color: #ffffff;
   box-shadow: inset 0px -4px 0px rgba(0, 0, 0, 0.09);
   font-weight: 600;
   font-size: 15px;
